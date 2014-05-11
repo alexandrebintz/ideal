@@ -1,3 +1,19 @@
+_ideal_, the IDE of the future
+==============================
+
+The __ideal__ project aims at developing a tool for software developers with advanced features, such as:
+- smart code autocompletion
+- instant access to documentation
+- smart refactoring tools
+- code management independent from the way code is written
+- code organization independent from filesystem organization
+- and much more !
+
+But of course, the main goal is to _have fun_ and _learn stuff_ !
+
+Feel free to contact me to learn more or get involved.
+
+
 _ideal_, l'IDE du futur
 =======================
 
@@ -14,19 +30,3 @@ Mais bien sûr, le but principal du projet est de _s'amuser_ et d'_apprendre des
 
 N'hésitez pas à me contacter pour en savoir plus ou pour contribuer au projet.
 
-
-
-_ideal_, the IDE of the future
-==============================
-
-The __ideal__ project aims at developing a tool for software developers with advanced features, such as:
-- smart code autocompletion
-- instant access to documentation
-- smart refactoring tools
-- code management independent from the way code is written
-- code organization independent from filesystem organization
-- and much more !
-
-But of course, the main goal is to _have fun_ and _learn stuff_ !
-
-Feel free to contact me to learn more or get involved.
