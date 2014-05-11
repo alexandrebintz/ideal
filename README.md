@@ -1,5 +1,5 @@
-*ideal*, l'IDE du futur
-=======================
+# *ideal*, l'IDE du futur
+
 
 Le projet ideal vise à développer un outil pour les développeurs comprenenant des fonctionnalités avancées, telles que :
 - autocomplétion intelligente de code
