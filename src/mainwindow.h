@@ -13,8 +13,10 @@
 
 #include <QMainWindow>
 #include <QProcess>
+#include <QSlider>
 
 #include "ui_mainwindow.h"
+#include "ui_about.h"
 
 class MainWindow : public QMainWindow
 {
@@ -23,19 +25,37 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = 0);
 
+    // core
     void execCmd(QString cmd);
     QByteArray getCmdOutput();
     void initProcess();
 
+    // gui
+    void initUI();
+    void clear();
+    void exec();
+
 public slots:
+    //core
     void processError(QProcess::ProcessError);
     void processFinished(int,QProcess::ExitStatus);
     void processStarted();
     void processStateChanged(QProcess::ProcessState);
 
+    // gui
+    void about();
+    void clearBtnClicked();
+    void execBtnClicked();
+
 private:
     Ui::MainWindow ui;
+    Ui::About ui_about;
+
+    QDialog* mAboutDialog;
+
     QProcess* mProcess;
+    QStatusBar* mStatusBar;
+    QSlider* mStatusSlider;
 };
 
 #endif // MAINWINDOW_H
