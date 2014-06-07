@@ -1,5 +1,5 @@
-_ideal_, the IDE of the future
-==============================
+_ideal_, an advanced tool for developers
+=========================================
 
 The __ideal__ project aims at developing a tool for software developers with advanced features, such as:
 - smart code autocompletion
@@ -14,8 +14,8 @@ But of course, the main goal is to _have fun_ and _learn stuff_ !
 Feel free to contact me to learn more or get involved.
 
 
-_ideal_, l'IDE du futur
-=======================
+_ideal_, un outil avancé pour les développeurs
+==============================================
 
 
 Le projet __ideal__ vise à développer un outil pour les développeurs comprenant des fonctionnalités avancées, telles que :

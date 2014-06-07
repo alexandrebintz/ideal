@@ -17,7 +17,7 @@
    <item>
     <widget class="QLabel" name="label">
      <property name="text">
-      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The goal of the &lt;span style=&quot; font-style:italic;&quot;&gt;ideal&lt;/span&gt; project is to create a tool for software developpers with advanced features.&lt;br/&gt;&lt;br/&gt;Visit &lt;a href=&quot;https://github.com/alexandrebintz/ideal&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/alexandrebintz/ideal&lt;/span&gt;&lt;/a&gt; for more infos.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The goal of the &lt;span style=&quot; font-style:italic;&quot;&gt;ideal&lt;/span&gt; project is to create a tool for software developers with advanced features.&lt;br/&gt;&lt;br/&gt;Visit &lt;a href=&quot;https://github.com/alexandrebintz/ideal&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/alexandrebintz/ideal&lt;/span&gt;&lt;/a&gt; for more infos.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
      <property name="wordWrap">
       <bool>true</bool>
