@@ -10,3 +10,7 @@ doc/html
 # exclude Qt builds
 
 build-ideal-*
+
+# other files
+
+notes.txt
